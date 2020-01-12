@@ -1,0 +1,10 @@
+C:\Users\ziadh\AppData\Local\Temporary Projects\HangMan\bin\Debug\HangMan.exe
+C:\Users\ziadh\AppData\Local\Temporary Projects\HangMan\bin\Debug\HangMan.pdb
+C:\Users\ziadh\AppData\Local\Temporary Projects\HangMan\obj\x86\Debug\HangMan.exe
+C:\Users\ziadh\AppData\Local\Temporary Projects\HangMan\obj\x86\Debug\HangMan.pdb
+C:\Users\ziadh\Desktop\HangMan\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\ziadh\Desktop\HangMan\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\ziadh\Desktop\HangMan\HangMan\HangMan\obj\x86\Debug\HangMan.csprojAssemblyReference.cache
+C:\Users\ziadh\Desktop\HangMan\HangMan\HangMan\obj\x86\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\ziadh\Desktop\HangMan\HangMan\HangMan\obj\x86\Debug\HangMan.exe
+C:\Users\ziadh\Desktop\HangMan\HangMan\HangMan\obj\x86\Debug\HangMan.pdb
